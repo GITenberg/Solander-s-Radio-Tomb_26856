@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26856#Solander-s-Radio-Tomb
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-10-09'
 gutenberg_type: Text
